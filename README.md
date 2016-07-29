@@ -1,5 +1,5 @@
 # Python Flask on Azure
-Sample project for deploying [Python Flask](http://flask.pocoo.org/) to Azure using [Python Tools For Visual Studio](https://github.com/Microsoft/PTVS). 
+Skeleton project for deploying [Python Flask](http://flask.pocoo.org/) to Azure using [Python Tools For Visual Studio](https://github.com/Microsoft/PTVS). 
 
 Prerequisites: Visual Studio 2013 with Python Tools for Visual Studio installed.
 
