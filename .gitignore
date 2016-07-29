@@ -1,0 +1,12 @@
+*.pyc
+**/.vs
+**/bin
+**/obj
+**/.ptvs
+**/ecf
+**/csx
+**/rcf
+**/env
+**/packages
+*.suo
+*.user

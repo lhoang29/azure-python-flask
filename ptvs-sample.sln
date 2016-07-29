@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "cloud", "cloud\cloud.ccproj", "{91985E54-5A59-4013-A5F0-55DD65E1EA04}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "flask", "flask\flask.pyproj", "{0F024F25-A757-4529-86B0-9AB2B08F4292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "setup", "setup\setup.csproj", "{5455B913-E783-4094-907E-006521659FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91985E54-5A59-4013-A5F0-55DD65E1EA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91985E54-5A59-4013-A5F0-55DD65E1EA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91985E54-5A59-4013-A5F0-55DD65E1EA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91985E54-5A59-4013-A5F0-55DD65E1EA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F024F25-A757-4529-86B0-9AB2B08F4292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F024F25-A757-4529-86B0-9AB2B08F4292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F024F25-A757-4529-86B0-9AB2B08F4292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F024F25-A757-4529-86B0-9AB2B08F4292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5455B913-E783-4094-907E-006521659FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5455B913-E783-4094-907E-006521659FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5455B913-E783-4094-907E-006521659FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5455B913-E783-4094-907E-006521659FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
